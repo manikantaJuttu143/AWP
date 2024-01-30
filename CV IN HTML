@@ -1,0 +1,123 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en"><html>
+<head>
+<title>My Resume</title>
+</head>
+<body>
+<div id="resume">
+<img src="C:\Users\Mani\OneDrive\Desktop\WhatsApp Image 2024-01-30 at 13.58.05_ce1d6ec6.jpg" align="right" width="200" length="100">
+<h1>Manikanta Juttu</h1>
+<h5>ARILOVA VIZAG</h2>
+<h5>VIZAG, PIN:530017.</h2>
+<h5>PHONE NUMBER:7780426373</h3>
+<h5>juttumanikanta52@gmail.com</h3>
+<br CSE />
+< SEC-B/div>
+ <hr />
+<h2>Profile</h2>
+<p>
+I want to become a Datascientist. as i was much interested in analysis and 
+visualising using python.
+</p>
+<br />
+<h2>Education</h2>
+
+<table border="1"  background="gray"  cellspacing="2"  cellpadding="1" width="50%">
+<th>SNo</th>
+<th>Course</th>
+<th>Board/University</th>
+<th>School/College</th>
+<th>Year of Passing</th>
+<th>Percentage/CGPA</th>
+<tr>
+<td>1</td>
+<td>10</td>
+<td>ICSE</td>
+<td>DPS</td>
+<td>2008</td>
+<td>90</td>
+</tr>
+<tr>
+<td>2</td>
+<td>12</td>
+<td>ICSE</td>
+<td>DPS</td>
+<td>2010</td>
+<td>95</td>
+</tr>
+<tr>
+<td>3</td>
+<td>B.Tech</td>
+<td>Centurion University</td>
+<td>Centurion University</td>
+<td>2022</td>
+<td>8.5(Pursuing)</td>
+</tr>
+</table>
+
+<h3>Project</h3>
+<ul>
+<li>
+   A minor project in python based on csv file.
+</li>
+<li>
+
+visualisation and analysis of world development indicators such as 
+elaectricity in
+rural ,urban,health expenditure per capita,gdp per capita in USD
+Dollars(DataScience).Automatic on and off lights by using 
+ArduinoNanoR3.Presently on
+working on covid cases in all the different satates of India(covid 
+dashboard).</li>
+</ul>
+<h3>Skills</h3>
+<p>programming</p>
+
+<ul>
+<li> 
+python
+</li>
+<li>
+c++
+
+</li>
+</ul>
+<p>other techinical skills</p>
+<ul>
+<li>
+blockchain techlogy
+</li>
+<li>
+AMAZON WEB SERVICES
+</li>
+</ul>
+<br />
+<h3>Extra Curricular Activities</h3>
+<p >Extracurriculars</p>
+  <ul>
+    <li>Recycling Club</li>
+    <li>Gardening Club</li>
+    <li>Book Club</li>
+  </ul>
+
+<h3>Hobbies and Interests</h3>
+<p>
+Watching movies,readingbooks,going to parties,attending workshops on aws 
+and python
+course.
+<!-- THIS DIV CENTERS OUR LINKS -->
+<div id="bottom">
+<p>
+<a href="index.html">RESUME HOME</a> | <a href="#">SIMPLE RESUME</a> | <a 
+href="resume.html">COMPLEX RESUME</a> | <a
+href="code.html" target="_blank">SEE HTML</a> | <a href="resume.css" 
+target="_blank">SEE CSS</a>
+</p>
+</div>
+</div>
+</body>
+<html>
+
+
